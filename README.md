@@ -1,4 +1,4 @@
-# Basic Go Tasks
+# Simple Codes of Basic Go
 
 Proyek ini berisi beberapa tugas pemrograman dasar menggunakan bahasa Go. Setiap tugas berada dalam file terpisah di dalam folder `task` dan diimpor ke dalam file utama `main.go`.
 
