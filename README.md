@@ -33,4 +33,4 @@ go run main.go
 Proyek ini dikembangkan oleh Irsyad Ridho Romadhon.
 kunjungi Github untuk melihat project lainnya
 
-[My Github](https:://github.com/irsy4drr01)
+[My Github](https://github.com/irsy4drr01)
